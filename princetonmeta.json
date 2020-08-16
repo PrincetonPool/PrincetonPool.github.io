@@ -3,5 +3,18 @@
   "ticker": "PTON",
   "description": "The Princeton Pool Is The Smart Place To Stake Your ADA",
   "homepage": "https://princetonpool.github.io",
-  "nonce": "1597185533"
+  "nonce": "1597185533",
+  {
+        "url_png_icon_64x64": "https://princetonpool.github.io/images/einstein6464.png",
+        "url_png_logo": "https://princetonpool.github.io/images/einstein.png",
+        "location": "Princeton, NJ, USA",
+        "social": {
+            "twitter_handle": "PrincetonPool",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        }
 }
