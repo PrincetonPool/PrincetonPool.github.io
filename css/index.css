@@ -4,13 +4,16 @@ body {
     margin-left:0px;
     margin-right:0px;
     overflow-y:scroll;
-    background-color:#ed6d0d;
-    font-family:sans-serif
+    .background-color:#ed6d0d;
+    background-color:#3b3b3b;
+    font-family:sans-serif;
+    color: white;
     }
 #topheader {
     height:150px;
     width:100%;
-    background-color:black;
+    .background-color:black;
+    background-color:#3b3b3b;
     color: white;
     text-align:center;
     font-size:50px;      
@@ -60,5 +63,6 @@ body {
     bottom:0;
     font-size:14pt;
     color:grey;
-    background-color:black;    
+    .background-color:black;    
+    background-color:#3b3b3b;    
 }
