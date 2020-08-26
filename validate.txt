@@ -1,4 +1,5 @@
 Discord name : EmmiJay#4834
 Discord nick : EmmiJay
+Discord ID : 742945476281630750
 "name": "The Princeton Pool",
 "ticker": "PTON",
