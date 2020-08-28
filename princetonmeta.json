@@ -3,5 +3,7 @@
   "ticker": "PTON",
   "description": "The Princeton Pool Is The Smart Place To Stake Your ADA",
   "homepage": "https://princetonpool.github.io",
-  "nonce": "1597185533"
+  "nonce": "1597185533",
+  "extended": "https://princetonpool.github.io/extendedmeta.json",
+  "extended": "https://princetonpool.github.io/validator.json"
 }
