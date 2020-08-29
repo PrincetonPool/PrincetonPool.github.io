@@ -1,9 +1,9 @@
 {
   "name": "The Princeton Pool",
   "ticker": "PTON",
-  "description": "The Princeton Pool Is The Smart Place To Stake Your ADA",
+  "description": "A Cardano Stake Pool Ran By Princeton U. Alums Promoting Freedom & Decentralization.",
   "homepage": "https://princetonpool.github.io",
-  "nonce": "1597185533",
+  "nonce": "1598716089",
   "extended": "https://princetonpool.github.io/extendedmeta.json",
   "extended": "https://princetonpool.github.io/validator.json"
 }
